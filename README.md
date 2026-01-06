@@ -1,5 +1,6 @@
 # sales-performance-analysis
 Sales performance analysis using Excel
+
 Project Overview
 This project analyses sales data using Excel to identify revenue trends, top-performing products, categories, and regions.
 
